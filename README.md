@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## These are my GitHub pages for the Coursera Javascript work
+
+[Link for module 2 work](site/index.html)
+
+### I am leaving the rest of the markdown here unchanged for now
 
 You can use the [editor on GitHub](https://github.com/rubiera/coursera-js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
