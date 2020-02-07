@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 Link for module 2 work:
-[https://github.com/rubiera/coursera-js/blob/master/site/index.html](text here)
+[site/index.html](I would like to make this work)
 
 You can use the [editor on GitHub](https://github.com/rubiera/coursera-js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
